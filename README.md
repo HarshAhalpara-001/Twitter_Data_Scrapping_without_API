@@ -1,4 +1,4 @@
-# Web Scraper for Article Data 📰
+# Web Scraper for Article Data in Twitter📰
 
 This project is a Python-based web scraper that extracts article data from a webpage and processes it into a structured format. The scraper is designed to retrieve text from specified elements and format it into single-line entries for easy data analysis and storage.
 
